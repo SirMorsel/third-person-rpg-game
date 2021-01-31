@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 22b5de226542b094b95821fa4e888908, type: 3}
-  m_Name: Test Item
+  m_Name: Shield
   m_EditorClassIdentifier: 
-  name: Sword
-  icon: {fileID: 0}
+  name: Shield Placeholder
+  icon: {fileID: 21300000, guid: 8e56d2c46181cff4c9ff527c6178c4cf, type: 3}
   isDefaultItem: 0

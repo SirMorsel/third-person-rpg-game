@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Put this script on Gamemanager
 public class Inventory : MonoBehaviour
 {
     #region Singleton
