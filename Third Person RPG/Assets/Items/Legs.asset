@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2e07b042c82b7e243a581da31819c62c, type: 3}
-  m_Name: Sword
+  m_Name: Legs
   m_EditorClassIdentifier: 
-  name: Test Sword
-  icon: {fileID: 21300000, guid: 8e56d2c46181cff4c9ff527c6178c4cf, type: 3}
+  name: Test Legs
+  icon: {fileID: 21300000, guid: b1e15a23927e81048944f1e301ee05b8, type: 3}
   isDefaultItem: 0
-  equipSlot: 2
-  armorModifier: 0
-  damageModifier: 5
+  equipSlot: 4
+  armorModifier: 10
+  damageModifier: 2
